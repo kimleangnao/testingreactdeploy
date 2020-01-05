@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/testingreactdeploy/static/css/main.d1b05096.chunk.css",
-    "main.js": "/testingreactdeploy/static/js/main.c293bc23.chunk.js",
-    "main.js.map": "/testingreactdeploy/static/js/main.c293bc23.chunk.js.map",
+    "main.css": "/testingreactdeploy/static/css/main.904246cd.chunk.css",
+    "main.js": "/testingreactdeploy/static/js/main.4f73840e.chunk.js",
+    "main.js.map": "/testingreactdeploy/static/js/main.4f73840e.chunk.js.map",
     "runtime-main.js": "/testingreactdeploy/static/js/runtime-main.0eecc9f2.js",
     "runtime-main.js.map": "/testingreactdeploy/static/js/runtime-main.0eecc9f2.js.map",
-    "static/js/2.09b83b44.chunk.js": "/testingreactdeploy/static/js/2.09b83b44.chunk.js",
-    "static/js/2.09b83b44.chunk.js.map": "/testingreactdeploy/static/js/2.09b83b44.chunk.js.map",
+    "static/js/2.8281a7db.chunk.js": "/testingreactdeploy/static/js/2.8281a7db.chunk.js",
+    "static/js/2.8281a7db.chunk.js.map": "/testingreactdeploy/static/js/2.8281a7db.chunk.js.map",
     "index.html": "/testingreactdeploy/index.html",
-    "precache-manifest.4904b2e49a0a55eea20fef0544e83a71.js": "/testingreactdeploy/precache-manifest.4904b2e49a0a55eea20fef0544e83a71.js",
+    "precache-manifest.4bcfe1b5ede3bfb785368cd572949c40.js": "/testingreactdeploy/precache-manifest.4bcfe1b5ede3bfb785368cd572949c40.js",
     "service-worker.js": "/testingreactdeploy/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/testingreactdeploy/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.09b83b44.chunk.js.LICENSE": "/testingreactdeploy/static/js/2.09b83b44.chunk.js.LICENSE",
-    "static/media/logo.svg": "/testingreactdeploy/static/media/logo.5d5d9eef.svg"
+    "static/css/main.904246cd.chunk.css.map": "/testingreactdeploy/static/css/main.904246cd.chunk.css.map",
+    "static/js/2.8281a7db.chunk.js.LICENSE": "/testingreactdeploy/static/js/2.8281a7db.chunk.js.LICENSE",
+    "static/media/banner.css": "/testingreactdeploy/static/media/backupBanner.89ad344e.jpg",
+    "static/media/doctor.css": "/testingreactdeploy/static/media/banner.7fd83178.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0eecc9f2.js",
-    "static/js/2.09b83b44.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c293bc23.chunk.js"
+    "static/js/2.8281a7db.chunk.js",
+    "static/css/main.904246cd.chunk.css",
+    "static/js/main.4f73840e.chunk.js"
   ]
 }
